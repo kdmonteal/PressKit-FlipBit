@@ -1,109 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <company>
-  <title></title>
-  <based-in></based-in>
-  <founding-date></founding-date>
-  <website></website>
-  <press-contact>
-    <!-- Mail address -->
-    kdmonteal.studio@gmail.com
-  </press-contact>
-
-  <!-- Google analytics ID: -->
-  <analytics></analytics>
-
-  <phone></phone>
-  <address>
-    <line>
-      <!-- Street -->
-    </line>
-    <line>
-      <!-- City -->
-    </line>
-    <line>
-      <!-- Country -->
-    </line>
-  </address>
+  <title>kdmonteal.studio</title>
+  <based-in>Colombia</based-in>
+  <website>https://kdmonteal.studio</website>
+  <press-contact>kdmonteal.studio@gmail.com</press-contact>
 
   <socials>
     <social>
-      <name></name>
-      <link>
-        <!-- URL starting with http or https -->
-      </link>
+      <name>Instagram</name>
+      <link>https://www.instagram.com/kdmonteal.studio/</link>
+    </social>
+    <social>
+      <name>YouTube</name>
+      <link>https://www.youtube.com/@kdmonteal.studio</link>
+    </social>
+    <social>
+      <name>LinkedIn</name>
+      <link>https://www.linkedin.com/in/kelly-daniella-marín-m-808535178</link>
+    </social>
+    <social>
+      <name>Linktree</name>
+      <link>https://linktr.ee/kdmonteal</link>
     </social>
   </socials>
 
-  <description></description>
+  <description>
+    kdmonteal.studio is an independent game and interactive media studio from Colombia. We make casual, retro and educational games for mobile, plus 3D and voxel assets for other creators.
+  </description>
 
-  <!-- Choose between a single block: -->
-  <history></history>
-
-  <!-- Or multiple blocks: -->
-  <!--
-  <histories>
-    <history>
-      <header></header>
-      <text></text>
-    </history>
-  </histories>
-  -->
-
-  <trailers>
-    <trailer>
-      <name></name>
-
-      <!-- Pick one: -->
-      <youtube>
-        <!-- Video ID only, not the full URL -->
-      </youtube>
-      <vimeo>
-        <!-- Video ID only, not the full URL -->
-      </vimeo>
-    </trailer>
-  </trailers>
-
-  <awards>
-    <award>
-      <description></description>
-      <info></info>
-    </award>
-  </awards>
-
-  <quotes>
-    <quote>
-      <description></description>
-      <name></name>
-      <website></website>
-      <link></link>
-    </quote>
-  </quotes>
-
-  <additionals>
-    <additional>
-      <title></title>
-      <description></description>
-      <link></link>
-    </additional>
-  </additionals>
+  <history>
+    kdmonteal.studio was created by Kelly Daniella Marín, a multimedia engineer with a master's degree in game design and development and a university professor of multimedia engineering. Before the studio she worked on medical simulation with augmented and virtual reality. Today the studio publishes its own mobile games, starting with FlipBit, and sells 3D models and Unity assets on TurboSquid and the Unity Asset Store.
+  </history>
 
   <credits>
     <credit>
-      <person></person>
-      <role></role>
-
-      <!-- Optional: -->
-      <website></website>
+      <person>Kelly Daniella Marín</person>
+      <role>Founder, game designer and developer</role>
+      <website>https://www.linkedin.com/in/kelly-daniella-marín-m-808535178</website>
     </credit>
   </credits>
 
   <contacts>
     <contact>
-      <name></name>
-
-      <!-- Pick one: -->
-      <mail></mail>
-      <link></link>
+      <name>Press and business</name>
+      <mail>kdmonteal.studio@gmail.com</mail>
+    </contact>
+    <contact>
+      <name>Instagram</name>
+      <link>https://www.instagram.com/kdmonteal.studio/</link>
     </contact>
   </contacts>
 </company>

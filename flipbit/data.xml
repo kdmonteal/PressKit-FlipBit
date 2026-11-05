@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game>
+  <title>FlipBit</title>
+  <website>https://kdmonteal.studio/flipbit/</website>
+
+  <release-dates>
+    <release-date>2026 — closed beta on Google Play, public launch coming soon</release-date>
+  </release-dates>
+
+  <platforms>
+    <platform>
+      <name>Android (Google Play)</name>
+      <link>https://play.google.com/store/apps/details?id=com.KdmontealStudio.FlipBit</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>Free</currency>
+      <value>(ad-supported, no in-app purchases)</value>
+    </price>
+  </prices>
+
+  <description>
+    FlipBit is a one-button retro arcade runner. Bit, a little pixel creature, runs non-stop through a tunnel full of spikes and spinning saws. Tap the screen and gravity flips: Bit jumps from the floor to the ceiling and back. The game speeds up every second, so runs are short, tense and easy to replay.
+  </description>
+
+  <histories>
+    <history>
+      <header>Why FlipBit</header>
+      <text>FlipBit is the first mobile game from kdmonteal.studio, a one-person studio in Colombia. The goal was a game anyone can understand in one second and play in one-minute sessions, with the look and sound of old arcade cabinets.</text>
+    </history>
+    <history>
+      <header>A world that follows the calendar</header>
+      <text>The tunnel changes every month using the phone's date: New Year, Valentine's and Friendship Day, beach summer, kites in August, Halloween, Day of the Dead, Christmas and more. Players who come back each month always find something new.</text>
+    </history>
+    <history>
+      <header>Made to be shared</header>
+      <text>The daily challenge builds the same level for every player on the same day. After each run, the "Challenge a friend" button shares the score with the challenge number, so friends can compare results without accounts or online servers.</text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>One-tap gameplay: flip gravity between floor and ceiling.</feature>
+    <feature>Spikes and spinning saws, with a speed that grows every second.</feature>
+    <feature>"Close call!" bonus points for grazing an obstacle.</feature>
+    <feature>Daily challenge: the same level for every player, every day.</feature>
+    <feature>36 cosmetic items for Bit (9 colors, 9 hats, 9 neck items, 9 costumes), all unlocked by playing. Nothing is for sale.</feature>
+    <feature>12 monthly themed worlds that follow the real calendar.</feature>
+    <feature>Pixel art, chiptune music and CRT screen effects.</feature>
+    <feature>Plays offline. No sign-up, no account.</feature>
+    <feature>Language: Spanish.</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>FlipBit gameplay reel (vertical, 1080x1920)</name>
+      <download>images/flipbit_reel_1080x1920.mp4</download>
+    </trailer>
+  </trailers>
+
+  <widgets>
+    <playstore>com.KdmontealStudio.FlipBit</playstore>
+  </widgets>
+
+  <additionals>
+    <additional>
+      <title>Official page</title>
+      <description>Game page with screenshots and the privacy policy</description>
+      <link>https://kdmonteal.studio/flipbit/</link>
+    </additional>
+    <additional>
+      <title>Privacy policy</title>
+      <description>How FlipBit handles data</description>
+      <link>https://kdmonteal.studio/flipbit/privacidad.html</link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Kelly Daniella Marín</person>
+      <role>Game design, programming, art and audio</role>
+      <website>https://kdmonteal.studio</website>
+    </credit>
+    <credit>
+      <person>Press Start 2P font by CodeMan38</person>
+      <role>Font (SIL Open Font License)</role>
+    </credit>
+    <credit>
+      <person>Lilita One font by Juan Montoreano</person>
+      <role>Font (SIL Open Font License)</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Press and business</name>
+      <mail>kdmonteal.studio@gmail.com</mail>
+    </contact>
+    <contact>
+      <name>Instagram</name>
+      <link>https://www.instagram.com/kdmonteal.studio/</link>
+    </contact>
+  </contacts>
+</game>
